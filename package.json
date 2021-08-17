@@ -1,5 +1,5 @@
 {
-  "name": "webstarter",
+  "name": "web-starter",
   "version": "1.0.0",
   "description": "The easiest way to get started on your next web project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "na"
+    "url": "https://github.com/timscodebase/web-starter"
   },
   "keywords": [
     "React",
