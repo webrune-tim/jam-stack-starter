@@ -1,6 +1,6 @@
 # [Issue Name]
 
-## Description
+### Description
 
 Description of the issue.
 
