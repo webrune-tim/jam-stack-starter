@@ -1,6 +1,6 @@
 {
   "name": "web-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The easiest way to get started on your next web project",
   "main": "index.js",
   "scripts": {
