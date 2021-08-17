@@ -1,0 +1,33 @@
+{
+  "name": "webstarter",
+  "version": "1.0.0",
+  "description": "The easiest way to get started on your next web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "React",
+    "Svelte",
+    "Vue",
+    "Polymer",
+    "Angular",
+    "create-react-app",
+    "Next",
+    "Preact",
+    "Svelte Kit",
+    "Svelte",
+    "Sapper",
+    "Nuxt"
+  ],
+  "author": "Tim Smith <tim.smith.hdg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "shelljs": "^0.8.4"
+  }
+}
