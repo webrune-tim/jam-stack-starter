@@ -1,6 +1,6 @@
 {
   "name": "jam-stack-starter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The easiest way to get started on your next web project",
   "main": "index.js",
   "scripts": {
