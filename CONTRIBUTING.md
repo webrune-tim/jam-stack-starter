@@ -1,3 +1,5 @@
+![Hacktoberfest 2021](./images/logo-hacktoberfest-full2.59799061.svg)
+
 ## Contributing
 
 [pr]: https://github.com/raise-dev/hacktoberfest/compare

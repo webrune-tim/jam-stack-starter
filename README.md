@@ -10,11 +10,11 @@ This CLI will walk you though your first project, and get you setup with the too
 
 3  You will be prompted to name you project
 
-![](framework.png)
+![](./images/framework.png)
 
 4  Chose between React, Svelte, Vue, or Angular
 
-![](choice.png)
+![](./images/choice.png)
 
 5  Once you've chosen, the appropriate framework will be installed for you.
 
